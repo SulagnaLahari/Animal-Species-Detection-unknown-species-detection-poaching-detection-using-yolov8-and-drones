@@ -10,10 +10,12 @@ Source Code for Unknown Species Detection: https://colab.research.google.com/dri
 Our project aims to revolutionize wildlife monitoring and conservation efforts by integrating cutting-edge computer vision surveillance with advanced drone technology. Our team of six members has leveraged the state-of-the-art YOLOv8 algorithm to develop a comprehensive system that detects and monitors wildlife species, identifies unknown species, and detects poachers in real time. This README provides an overview of our project, including key experimental results and the technologies used.
 
 Technologies Used-
+
 Drone Technology: Equipped with high-resolution cameras and advanced sensors, our drones provide real-time data collection, allowing us to monitor vast and remote areas efficiently without disturbing natural habitats.
 Computer Vision: Utilizing the YOLOv8 algorithm, we achieve precise and rapid analysis of visual data, enabling real-time detection and classification of objects in images and videos.
 
 How It Works-
+
 The system employs a combination of drones equipped with high-resolution cameras and sensors, along with the YOLOv8 computer vision algorithm. The drones are deployed to survey vast and remote areas, capturing real-time video footage. This footage is then processed using YOLOv8, which analyzes the visual data to identify and classify various objects.
 
 Data Collection: Drones capture high-resolution images and videos of the survey areas.
