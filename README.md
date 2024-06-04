@@ -12,6 +12,7 @@ Our project aims to revolutionize wildlife monitoring and conservation efforts b
 Technologies Used-
 
 Drone Technology: Equipped with high-resolution cameras and advanced sensors, our drones provide real-time data collection, allowing us to monitor vast and remote areas efficiently without disturbing natural habitats.
+
 Computer Vision: Utilizing the YOLOv8 algorithm, we achieve precise and rapid analysis of visual data, enabling real-time detection and classification of objects in images and videos.
 
 How It Works-
@@ -19,8 +20,11 @@ How It Works-
 The system employs a combination of drones equipped with high-resolution cameras and sensors, along with the YOLOv8 computer vision algorithm. The drones are deployed to survey vast and remote areas, capturing real-time video footage. This footage is then processed using YOLOv8, which analyzes the visual data to identify and classify various objects.
 
 Data Collection: Drones capture high-resolution images and videos of the survey areas.
+
 Data Processing: The captured footage is fed into the YOLOv8 algorithm, which processes the data in real-time.
+
 Detection and Classification: YOLOv8 identifies and classifies objects such as animals, unknown species, and poachers based on pre-trained models.
+
 Alert System: For poacher detection, the system sends real-time alerts to authorities, enabling swift action to protect endangered species.
 
 Experimental Results-
